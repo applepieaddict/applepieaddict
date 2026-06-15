@@ -1,5 +1,5 @@
 # appleintro
-<img width="256" height="256" alt="wooloo" src="https://github.com/user-attachments/assets/b4321e3c-fea4-4e85-b49e-7460f07d19bf" />
+<img width="1920" height="1080" alt="VRChat_2026-06-02_09-58-53 650_1920x1080" src="https://github.com/user-attachments/assets/24d49ac0-faaa-40c8-8676-15f17b0be25a" />
 <img width="2048" height="122" alt="apples" src="https://github.com/user-attachments/assets/e981048a-105a-4814-a809-1a1940def931" />
 <img width="1920" height="1080" alt="VRChat_2026-06-14_09-34-39 636_1920x1080" src="https://github.com/user-attachments/assets/e6d55b92-020f-482d-b0be-2f98b7bec310" />
 credits--> donut (Sage0fTruth)
