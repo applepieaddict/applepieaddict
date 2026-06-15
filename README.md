@@ -3,7 +3,8 @@
 <img width="1920" height="1080" alt="VRChat_2026-06-14_09-34-39 636_1920x1080" src="https://github.com/user-attachments/assets/e6d55b92-020f-482d-b0be-2f98b7bec310" />
 credits--> donut (Sage0fTruth)
 <img width="2048" height="122" alt="image" src="https://github.com/user-attachments/assets/8df28b55-2fa7-46a6-8d46-8c952b821d9f" />
-<img width="373" height="352" alt="wooloo" src="https://github.com/user-attachments/assets/2f08bc4b-c9b1-487f-a016-7cf59755a7e0" />
+<img width="373" height="352" alt="wooloo" src="https://github.com/user-attachments/assets/2a430eca-9d3a-460e-b8e4-7c99cda229ab" />
+
 
 
 <!--
