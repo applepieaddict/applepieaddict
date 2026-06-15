@@ -3,7 +3,8 @@
 <img width="1920" height="1080" alt="VRChat_2026-06-14_09-34-39 636_1920x1080" src="https://github.com/user-attachments/assets/e6d55b92-020f-482d-b0be-2f98b7bec310" />
 credits--> donut (Sage0fTruth)
 <img width="2048" height="122" alt="image" src="https://github.com/user-attachments/assets/8df28b55-2fa7-46a6-8d46-8c952b821d9f" />
-<img width="3330" height="1812" alt="ehhhhhhhh" src="https://github.com/user-attachments/assets/e14eb5d4-a40e-4df2-a2ef-80c7d05a4058" /><img width="980" height="980" alt="apple-pie-slice-on-transparent-background-free-png" src="https://github.com/user-attachments/assets/b85393fd-ce69-4580-8fc3-bafaf179f400" />
+<img width="900" height="1200" alt="wooloo" src="https://github.com/user-attachments/assets/405d581c-c1e9-4671-a948-8b49f969b67b" />
+
 
 <!--
 **applepieaddict/applepieaddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
