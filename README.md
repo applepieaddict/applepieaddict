@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca8d1e11-5300-4a85-b201-eeffb5dc5dd6" /># appleintro
+# appleintro
 <img width="2048" height="122" alt="apples" src="https://github.com/user-attachments/assets/e981048a-105a-4814-a809-1a1940def931" />
 <img width="1920" height="1080" alt="VRChat_2026-06-14_09-34-39 636_1920x1080" src="https://github.com/user-attachments/assets/e6d55b92-020f-482d-b0be-2f98b7bec310" />
 credits--> donut (Sage0fTruth)
